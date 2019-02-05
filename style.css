@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+body {
+	margin: 0 auto;
+	background-image: url(stars.jpg);
+	background-size: 200vh;
+	background-repeat: no-repeat;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+
+#dropdown {
+	color: #fff;
+	background: inherit;
+}
+
+nav {
+}
+
+.navbar-toggler {
+	background: #fff !important;
+}
+.dropdown-menu {
+	background: inherit;
+}
+
+.dropdown-item {
+	color: #fff;
+}
+
+.nav-link {
+	color: #fff !important;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px
+}
+
+.nav-link:hover{
+	border-bottom: solid #fff;
+	color: #fff;
+}
+
+.btn {
+	border: solid #fff;
+	color: #fff;
+}
+
+.btn:hover {
+	background: #fff;
+	color: #000;
+	border: #fff;
+}
+
+.jumbotron {
+	background: inherit;
+	color: #fff;
+	padding-top: 30vh;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-weight: 900;
+}
+
+footer {
+	padding-top: 30vh;
+	justify-content: center;
+}
+
+i {
+	color: #fff;
+	margin: 10px;
+}
+
+i:hover{
+	transform: scale(1.5);
+}
